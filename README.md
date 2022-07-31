@@ -1,7 +1,7 @@
 # V13-Bots
 Discordda eskisi kadar aktif olmadığım için belirli bir star karşılığında botlarımı paylaşmaya karar verdim 
 
-Administrator (Moderation - Register - Stat (Ses Coin Yerli Yükseltme v.b) - Eğlence (Ship Market Coin Cf v.b - Setuplu) 
+Administrator (Moderation - Register - Stat (Ses Coin Yetki Yükseltme v.b) - Eğlence (Ship Market Coin Cf v.b - Setuplu) 
 
 Guard (Chat Guard - Server , Role, Channel v.b - Oto Rol Dağıtma Kanal Kurma v.b)
 
