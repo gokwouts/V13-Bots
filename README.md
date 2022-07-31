@@ -11,3 +11,9 @@ Helper (Yetkili Alım - Öneri , İstek , Şikayet - Canlı Destek)
 Gif (Stat Paylaşıma Göre fln - Random gif , pp v.b)
 
 Priw (Design v.b swlere yaptığım bot işte coinli fln)
+
+Spammer (10 Tokenli Url Spammer Kafanıza Göre Arttırabilirsiniz)
+
+Sniper (Url Spammer Urlyi 10 saniyeliğine çok hızlı şekilde spamlar)
+
+Patlatma (Anında sunucudaki bütün kanal rol emoji v.b silip herkesi banlama program gibi user token)
